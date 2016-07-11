@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Flinn]]></title>
         <description><![CDATA[Flinn]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/flinn/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Jul 2016 20:34:08 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 11 Jul 2016 20:42:40 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/flinn/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>my office it a taco store</p>]]></description>
+            <link>https://thegrid.ai/flinn/my-office-it-a-taco-store/index.html</link>
+            <guid isPermaLink="false">8097dfe9-2a2f-4aec-b946-90b361966898</guid>
+            <pubDate>Mon, 11 Jul 2016 20:42:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/624828fc-5759-43b9-9256-99db6071005a.jpg">]]></description>
-            <link>undefinedc155b4d2-3258-4b29-bb3d-0f37f33f6ffa/index.html</link>
+            <link>https://thegrid.ai/flinn/c155b4d2-3258-4b29-bb3d-0f37f33f6ffa/index.html</link>
             <guid isPermaLink="false">c155b4d2-3258-4b29-bb3d-0f37f33f6ffa</guid>
             <pubDate>Mon, 11 Jul 2016 20:33:23 GMT</pubDate>
         </item>
